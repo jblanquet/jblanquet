@@ -3,6 +3,8 @@
 Software Engineer with 25+ years of experience in debugging, system validation, and production software support.  
 Currently expanding into hands-on software development with a focus on backend systems, C++, Python, and practical tooling.
 
+> Experience working with real production systems, not just academic projects.
+
 ---
 
 ## 🧠 About Me
@@ -55,10 +57,3 @@ Object-Oriented Programming • Software Testing • System Integration
 
 - LinkedIn: https://www.linkedin.com/in/jblanquet  
 - GitHub: https://github.com/jblanquet  
-
----
-
-## ⚡ Notes
-
-Most of my experience comes from working with real production systems rather than purely academic projects.  
-I’m currently focused on building more public-facing work that reflects my transition into development.
