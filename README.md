@@ -16,11 +16,24 @@ I’ve spent most of my career working with complex software systems in producti
 - Validating software behavior against specifications  
 - Improving reliability and reducing production defects  
 
-I’m currently pursuing a BS in Computer Science while continuing to build real-world development skills that reflect both my engineering background and growing coding experience.
+I’m currently leveling up through an accelerated BS→MS program in Computer Science while continuing to build real-world development skills that reflect both my engineering background and growing coding experience.
 
 ---
 
 ## 🚀 Featured Work
+
+### 🔍 Job Description Analyzer (Project)
+**Practical CLI Tool for Skills Gap Analysis**
+
+Developed a Python-based CLI utility that evaluates job descriptions against a predefined skill set, identifying gaps and providing a quantitative match score.
+
+- Implemented text normalization and keyword matching to ensure accurate, case-insensitive analysis
+- Engineered the tool to process multiple files in batch, including robust error handling
+- Built a custom scoring system to compare candidate skill sets against job requirements
+- Focused on designing a focused, lightweight tool that prioritizes utility over over-engineering
+
+**Focus Areas:**  
+Python • CLI Development • Text Processing • Automation • File I/O
 
 ### 🔧 Fortran → C++ System Translation (Case Study)  
 **WGU Excellence Award**
